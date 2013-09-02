@@ -17,14 +17,23 @@ SETTING UP:
 How to plug your motors in and control them using Joystick module.
 
 Plug in your Joystick X and Y pins to Arduino pins A0 and A1.
+
 If you want to use the "slowmode" by using your Joysticks button plug the button to A3.
-also the +5v to Arduino 5v and GND to Arduino GND.
+
+Also the +5v to Arduino 5v and GND to Arduino GND.
+
 
 Plug your #1 driver board pins 1,2,3,4 to Arduino pins 2,3,4,5.
-and the #2 driver board pins 1,2,3,4 to Arduino pins 6,7,8,9.
+
+And the #2 driver board pins 1,2,3,4 to Arduino pins 6,7,8,9.
+
 Then connect the driver boards 5v to Arduino 5v or other 5v power supply and GND.
+
 Make sure if using Auxiliary power supply to connect your Arduino GND to supply GND.
 
+
 Upload the code to your Arduino and you're good to go!
+
+-----------------------------------------------------------------------------------------------------------------
 
 Have fun building the robot!
