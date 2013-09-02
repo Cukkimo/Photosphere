@@ -1,9 +1,5 @@
 # Photosphere
-================================================================================================================
-
 Arduino project using 2 stepper motors and a joystick to take Photosphere pictures with mounted android phone.
-
-================================================================================================================
 
    This bit of code is meant to be run with Arduino Uno and 28BYJ-48 Stepper motors with ULN2003AN drivers.
    The stepper motors are cheap and usually comes with these drivers, when bought from ebay. 
@@ -15,6 +11,7 @@ Arduino project using 2 stepper motors and a joystick to take Photosphere pictur
 ## SETTING UP:
 
 1. How to plug your motors in and control them using Joystick module.
+   
    Plug in your Joystick X and Y pins to Arduino pins A0 and A1.
    If you want to use the "slowmode" by using your Joysticks button plug the button to A3.
    Also the +5v to Arduino 5v and GND to Arduino GND.
