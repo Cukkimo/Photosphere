@@ -14,13 +14,10 @@ Arduino project using 2 stepper motors and a joystick to take Photosphere pictur
 ----------------------------------------------------------------------------------------------------------------
 ## SETTING UP:
 
-How to plug your motors in and control them using Joystick module.
-
-Plug in your Joystick X and Y pins to Arduino pins A0 and A1.
-
-If you want to use the "slowmode" by using your Joysticks button plug the button to A3.
-
-Also the +5v to Arduino 5v and GND to Arduino GND.
+1. How to plug your motors in and control them using Joystick module.
+   Plug in your Joystick X and Y pins to Arduino pins A0 and A1.
+   If you want to use the "slowmode" by using your Joysticks button plug the button to A3.
+   Also the +5v to Arduino 5v and GND to Arduino GND.
 
 
 Plug your #1 driver board pins 1,2,3,4 to Arduino pins 2,3,4,5.
