@@ -5,7 +5,7 @@ Arduino project using 2 stepper motors and a joystick to take Photosphere pictur
    The stepper motors are cheap and usually comes with these drivers, when bought from ebay. 
    They run at 5v / ~0.24 A / ~10RPM
 
-   Manufacturer Datasheet: http://www.raspberrypi-spy.co.uk/wp-content/uploads/2012/07/Stepper-Motor-28BJY-48-Datasheet.pdf
+   [Manufacturer Datasheet:](http://www.raspberrypi-spy.co.uk/wp-content/uploads/2012/07/Stepper-Motor-28BJY-48-Datasheet.pdf)
 
 ----------------------------------------------------------------------------------------------------------------
 ## SETTING UP:
