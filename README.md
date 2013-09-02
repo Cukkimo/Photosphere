@@ -33,3 +33,7 @@ How to plug your motors in and control them using Joystick module.
 -----------------------------------------------------------------------------------------------------------------
 
 Have fun building the robot!
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=t3_Uk-U_M6A
+" target="_blank"><img src="http://img.youtube.com/vi/t3_Uk-U_M6A/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
